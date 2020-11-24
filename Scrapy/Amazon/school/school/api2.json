@@ -1,0 +1,2404 @@
+[
+  {
+    "schoolName": "Acacia Hill School",
+    "schoolType": "Special School",
+    "electorate": "Braitling",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "acacisch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Adelaide River School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "adelasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Alawa Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Johnston",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "alawasch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Alawa Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Johnston",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "alawasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Alcoota School",
+    "schoolType": "Group School",
+    "electorate": "Namatjira",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "alcoosch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Alekarenge School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "alekacec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Alice Springs Language Centre",
+    "schoolType": "Open Learning Centre",
+    "electorate": "Araluen",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "ntsolasp",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Alice Springs School Of The Air",
+    "schoolType": "Distance Learning School",
+    "electorate": "Braitling",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "alicesoa",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Alice Springs Steiner School",
+    "schoolType": "Primary School",
+    "electorate": "Araluen",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "alicespringssteinerschool",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Alpurrurulam School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "alpursch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Alyangula Area School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "alyanas",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Alyangula Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Arnhem",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "alyanas",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Alyarrmandumanja Umbakumba School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "Esat Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "umbaksch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Amanbidji School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "amanbsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Amoonguna School",
+    "schoolType": "Primary School",
+    "electorate": "Namatjira",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "amoonsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Ampilatwatja School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "ampilsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Angurugu Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Arnhem",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "angurcec",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Angurugu School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "angurcec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Anula Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Sanderson",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "anulasch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Anula Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Sanderson",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "anulasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Araluen Christian School",
+    "schoolType": "Primary School",
+    "electorate": "Araluen",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "aralusch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Areyonga School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "areyosch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Arlparra School",
+    "schoolType": "School",
+    "electorate": "Barkly",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "arlpahs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Bakewell Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Brennan",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "bakewsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Bakewell Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Brennan",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "bakewsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Baniyala Garrangali School",
+    "schoolType": "School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "baniysch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Barunga School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "baruncec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Batchelor Area School",
+    "schoolType": "School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "batchas",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Batchelor Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "batchas",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Bees Creek Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Goyder",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "beescsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Bees Creek Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Goyder",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "beescsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Belyuen School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "belyusch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Berry Springs Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "berrysch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Berry Springs Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "berrysch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Bonya School",
+    "schoolType": "Group School",
+    "electorate": "Namatjira",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "bonyahlc",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Borroloola Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Barkly",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "borrosch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Borroloola School",
+    "schoolType": "School",
+    "electorate": "Barkly",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "borrosch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Bradshaw Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Araluen",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "bradssch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Bradshaw Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Araluen",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "bradssch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Braitling Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Braitling",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "braitsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Braitling Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Braitling",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "braitsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Bulla Camp School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "bullasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Bulman School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "bulmasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Callistemon House",
+    "schoolType": "School",
+    "electorate": "Katherine",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "callisch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Canteen Creek School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "cantesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Casuarina Senior College",
+    "schoolType": "Senior College",
+    "electorate": "Johnston",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "casuahs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Casuarina Street Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Katherine",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "casuasch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Casuarina Street Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Katherine",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "casuasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Centralian Middle School",
+    "schoolType": "Middle School",
+    "electorate": "Araluen",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "centrms",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Centralian Senior College",
+    "schoolType": "Senior College",
+    "electorate": "Braitling",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "centrsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Clyde Fenton Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Katherine",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "clydesch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Clyde Fenton Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Katherine",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "clydesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Darwin High School",
+    "schoolType": "Senior College",
+    "electorate": "Fannie Bay",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "darwihs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Darwin Languages Centre",
+    "schoolType": "Open Learning Centre",
+    "electorate": "Fannie Bay",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "ntsoldrw",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Darwin Middle School",
+    "schoolType": "Middle School",
+    "electorate": "Fannie Bay",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "darwims",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Douglas Daly School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "douglsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Dripstone Middle School",
+    "schoolType": "Middle School",
+    "electorate": "Casuarina",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "dripshs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Driver Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Drysdale",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "drivesch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Driver Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Drysdale",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "drivesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Dundee Beach School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "dundesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Durack Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Spillett",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "duracsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Durack Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Spillett",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "duracsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Elliott School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "elliocec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Epenarra School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "epenasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Essington School",
+    "schoolType": "Primary School",
+    "electorate": "Nightcliff",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "essinsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Family as First Teachers",
+    "schoolType": "Other",
+    "electorate": "Port Darwin",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "faftsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Finke School",
+    "schoolType": "Group School",
+    "electorate": "Namatjira",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "finkesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Forrest Parade School",
+    "schoolType": "Special School",
+    "electorate": "Blain",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "forresch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Gapuwiyak Pre School",
+    "schoolType": "Pre school",
+    "electorate": null,
+    "decsRegion": null,
+    "isGovernment": true,
+    "itSchoolCode": "gapuwiyakpreschool",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Gapuwiyak School",
+    "schoolType": "School",
+    "electorate": "Arnhem",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "gapuwcec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Gawa Christian School",
+    "schoolType": "School",
+    "electorate": "Mulka",
+    "decsRegion": "Arnhem",
+    "isGovernment": false,
+    "itSchoolCode": "gawasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Gillen Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Araluen",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "gillesch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Gillen Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Araluen",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "gillesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Girraween Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Nelson",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "girrasch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Girraween Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Nelson",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "girrasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Good Shepherd Lutheran College",
+    "schoolType": "Middle School",
+    "electorate": "Nelson",
+    "decsRegion": "Palmerston & Rural",
+    "isGovernment": false,
+    "itSchoolCode": "goodsms",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Good Shepherd Lutheran School",
+    "schoolType": "Primary School",
+    "electorate": "Drysdale",
+    "decsRegion": "Palmerston & Rural",
+    "isGovernment": false,
+    "itSchoolCode": "goodssch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Gray Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Drysdale",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "graysch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Gray Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Drysdale",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "graysch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Gunbalanya Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Arafura",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "gunbacec",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Gunbalanya School",
+    "schoolType": "School",
+    "electorate": "Arafura",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "gunbacec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Haasts Bluff School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "haastsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Haileybury Rendall School",
+    "schoolType": "High School",
+    "electorate": "Fong Lim",
+    "decsRegion": null,
+    "isGovernment": false,
+    "itSchoolCode": "haileyburyrendallschool",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Harts Range School",
+    "schoolType": "Group School",
+    "electorate": "Namatjira",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "hartssch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Henbury School",
+    "schoolType": "Special School",
+    "electorate": "Casuarina",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "henbusch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Holy Family Catholic School",
+    "schoolType": "Primary School",
+    "electorate": "Karama",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "holyfsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Holy Spirit Catholic School",
+    "schoolType": "Primary School",
+    "electorate": "Wanguri",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "holyssch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Howard Springs Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Nelson",
+    "decsRegion": "Top end",
+    "isGovernment": true,
+    "itSchoolCode": "howarsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Howard Springs Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Nelson",
+    "decsRegion": "Top end",
+    "isGovernment": true,
+    "itSchoolCode": "howarsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Humpty Doo Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Goyder",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "humptsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Humpty Doo Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Goyder",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "humptsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Ida Standley Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Braitling",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "sadadsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Imanpa School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "imanpsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Jabiru Area School",
+    "schoolType": "School",
+    "electorate": "Arafura",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "jabiras",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Jabiru Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Arafura",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "jabiras",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Jilkminggan School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "jilkmsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Jingili Preschool",
+    "schoolType": "Pre School",
+    "electorate": "Johnston",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "jingisch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Jingili Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Johnston",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "jingisch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Kalkaringi Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Gwoja",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "kalkacec",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Kalkaringi School",
+    "schoolType": "School",
+    "electorate": "Gwoja",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "kalkacec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Karama Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Karama",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "karamsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Karama Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Karama",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "karamsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Katherine Flexible Learning Centre",
+    "schoolType": "Special Purpose School",
+    "electorate": "Katherine",
+    "decsRegion": "tba",
+    "isGovernment": true,
+    "itSchoolCode": "kathfsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Katherine High School",
+    "schoolType": "High School",
+    "electorate": "Katherine",
+    "decsRegion": "KatherineBig riveres",
+    "isGovernment": true,
+    "itSchoolCode": "kathehs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Katherine School Of The Air",
+    "schoolType": "Distance Learning School",
+    "electorate": "Katherine",
+    "decsRegion": "Big Riveers",
+    "isGovernment": true,
+    "itSchoolCode": "kathesoa",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Katherine South Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Katherine",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "kathesch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Katherine South Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Katherine",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "kathesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Kiana School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Big rivers",
+    "isGovernment": true,
+    "itSchoolCode": "kianasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Kintore Street Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Katherine",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "kintosch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Kintore Street School",
+    "schoolType": "Special School",
+    "electorate": "Katherine",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "kintosch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Lajamanu Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Gwoja",
+    "decsRegion": "Big rivers",
+    "isGovernment": true,
+    "itSchoolCode": "lajamcec",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Lajamanu School",
+    "schoolType": "School",
+    "electorate": "Gwoja",
+    "decsRegion": "Big rivers",
+    "isGovernment": true,
+    "itSchoolCode": "lajamcec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Laramba School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "laramsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Larapinta Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "larapsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Larapinta Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "larapsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Larrakeyah Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Port Darwin",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "larrasch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Larrakeyah Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Port Darwin",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "larrasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Laynhapuy Homelands School",
+    "schoolType": "Group School",
+    "electorate": "Mulka",
+    "decsRegion": "Est Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "yirrkhlc",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Leanyer Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Wanguri",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "leanysch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Leanyer Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Wanguri",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "leanysch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Living Waters Lutheran School",
+    "schoolType": "Primary School",
+    "electorate": "Namatjira",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "livinsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Ltyentye Apurte CEC",
+    "schoolType": "School",
+    "electorate": "Namatjira",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "ltyencec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Ludmilla Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Fannie Bay",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "ludmisch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Ludmilla Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Fannie Bay",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "ludmisch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "MacFarlane Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Katherine",
+    "decsRegion": "Big rivers",
+    "isGovernment": true,
+    "itSchoolCode": "macfasch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "MacFarlane Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Katherine",
+    "decsRegion": "Big rivers",
+    "isGovernment": true,
+    "itSchoolCode": "macfasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Mackillop Catholic College",
+    "schoolType": "High School",
+    "electorate": "Spillett",
+    "decsRegion": "Palmerston & Rural",
+    "isGovernment": false,
+    "itSchoolCode": "mackims",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Malak Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Karama",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "malaksch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Malak Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Karama",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "malaksch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Mamaruni School",
+    "schoolType": "Group School",
+    "electorate": "Arafura",
+    "decsRegion": "Top end",
+    "isGovernment": true,
+    "itSchoolCode": "mamarsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Maningrida School",
+    "schoolType": "School",
+    "electorate": "Arafura",
+    "decsRegion": "Top end",
+    "isGovernment": true,
+    "itSchoolCode": "manincec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Manunda Terrace Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Karama",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "manunsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Manunda Terrace Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Karama",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "manunsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Manyallaluk School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big rivers",
+    "isGovernment": true,
+    "itSchoolCode": "manyasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Mapuru Yirralka College",
+    "schoolType": "School",
+    "electorate": "Nhulunbuy",
+    "decsRegion": "Arnhem",
+    "isGovernment": false,
+    "itSchoolCode": "mapursch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Marrara Christian School",
+    "schoolType": "School",
+    "electorate": "Spillett",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "marrahs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Mataranka School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "matarsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Mbunghara School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "mbungsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Middle Point School",
+    "schoolType": "Group School",
+    "electorate": "Goyder",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "middlsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Milikapiti School",
+    "schoolType": "Group School",
+    "electorate": "Arafura",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "miliksch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Milingimbi School",
+    "schoolType": "School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "milincec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Milkwood Steiner",
+    "schoolType": "Primary School",
+    "electorate": "Spillett",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "milkwoodsteiner",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Millner Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Johnston",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "millnsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Millner Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Johnston",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "millnsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Milyakburra School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "Esat Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "milyasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Mimik-Ga Centre",
+    "schoolType": "Special Purpose School",
+    "electorate": "Wanguri",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "eilhsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Minyerri Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "minyesch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Minyerri School",
+    "schoolType": "School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "minyesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Moil Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Johnston",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "moilsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Moil Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Johnston",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "moilsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Mother Teresa Catholic Primary School",
+    "schoolType": null,
+    "electorate": null,
+    "decsRegion": null,
+    "isGovernment": false,
+    "itSchoolCode": "mtcpssch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Moulden Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Drysdale",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "mouldsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Moulden Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Drysdale",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "mouldsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Mount Allan School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "mtallsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Mulga Bore School",
+    "schoolType": "Group School",
+    "electorate": "Namatjira",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "mulgasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Murray Downs School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "murrasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Murrupurtiyanuwu Catholic Primary School",
+    "schoolType": "School",
+    "electorate": "Arafura",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "murrupurtiyanuwucatholicprimaryschool",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Mutitjulu School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "mutitsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nakara Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Casuarina",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "nakarsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Nakara Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Casuarina",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "nakarsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nathalie Gorey Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Braitling",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "sadadsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Nemarluk School",
+    "schoolType": "Special School",
+    "electorate": "Johnston",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "nemarsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Neutral Junction School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "BArkly",
+    "isGovernment": true,
+    "itSchoolCode": "neutrsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Newcastle Waters School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "newcasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nganambala School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "nganasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nganmarriyanga School",
+    "schoolType": "School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "nganmsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Ngukurr Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "ngukucec",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Ngukurr School",
+    "schoolType": "School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "ngukucec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nhulunbuy Christian School",
+    "schoolType": "Primary School",
+    "electorate": "Mulka",
+    "decsRegion": "Arnhem",
+    "isGovernment": false,
+    "itSchoolCode": "nhulucsc",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nhulunbuy High School",
+    "schoolType": "High School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "nhuluhs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nhulunbuy Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "nhulusch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Nhulunbuy Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "nhulusch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nightcliff Middle School",
+    "schoolType": "Middle School",
+    "electorate": "Nightcliff",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "nighths",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nightcliff Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Nightcliff",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "nightsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Nightcliff Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Nightcliff",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "nightsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "NT Music School",
+    "schoolType": "School",
+    "electorate": "Sanderson",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "ntmsdrw",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "NT School of Distance Education",
+    "schoolType": "Distance Learning School",
+    "electorate": "Fannie Bay",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "ntoec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Ntaria School",
+    "schoolType": "School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "ntarisch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Numbulwar Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "numbusch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Numbulwar School",
+    "schoolType": "School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "numbusch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nyangatjatjara College - Docker Rvr Campus",
+    "schoolType": "School",
+    "electorate": "Gwoja",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "nyandsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nyangatjatjara College - Imanpa Campus",
+    "schoolType": "School",
+    "electorate": "Gwoja",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "nyangatjatjaracollegeimanpacampus",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nyangatjatjara College - Yulara Campus",
+    "schoolType": "School",
+    "electorate": "Gwoja",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "nyangatjatjaracollegeyularacampus",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Nyirripi School",
+    "schoolType": "School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "nyirrsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "O'Loughlin Catholic College",
+    "schoolType": "High School",
+    "electorate": "Karama",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "oloughs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "OLSH College - Sadadeen Campus",
+    "schoolType": "High School",
+    "electorate": "Braitling",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "olshssch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "OLSH College - Traeger Campus",
+    "schoolType": "School",
+    "electorate": "Araluen",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "olshtsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "OLSH Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Araluen",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "olshbsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "OLSH Thamarrurr Catholic College",
+    "schoolType": "School",
+    "electorate": "Daly",
+    "decsRegion": "Palmerston & Rural",
+    "isGovernment": false,
+    "itSchoolCode": "olshpsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Owen Springs Education Centre",
+    "schoolType": "Special Purpose School",
+    "electorate": "Namatjira",
+    "decsRegion": "Alice Springs",
+    "isGovernment": true,
+    "itSchoolCode": "aspdcsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Palmerston Christian School",
+    "schoolType": "Primary School",
+    "electorate": "Spillett",
+    "decsRegion": "Palmerston & Rural",
+    "isGovernment": false,
+    "itSchoolCode": "palmesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Palmerston College",
+    "schoolType": "College",
+    "electorate": "Drysdale",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "palmcsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Papunya School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "papunsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Parap Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Fannie Bay",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "parapsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Parap Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Fannie Bay",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "parapsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Peppimenarti School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "peppisch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Pigeon Hole School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "pigeosch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Pine Creek School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "pinecsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Pularumpi School",
+    "schoolType": null,
+    "electorate": "Arafura",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "pularsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Ramingining Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "ramincec",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Ramingining School",
+    "schoolType": "School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "ramincec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Robinson River School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "robinsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Rockhampton Downs School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "rockhasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Rona Glynn Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Braitling",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "rosspsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Rosebery Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Blain",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "rosebsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Ross Park Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Braitling",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "rosspsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Royal Darwin Hospital School",
+    "schoolType": "Primary School",
+    "electorate": "Casuarina",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "dhospsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Sacred Heart Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Blain",
+    "decsRegion": "Palmerston & Rural",
+    "isGovernment": false,
+    "itSchoolCode": "sacresch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Sadadeen Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Braitling",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "sadadsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Sanderson Middle School",
+    "schoolType": "Middle School",
+    "electorate": "Sanderson",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "sandehs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Sattler Christian College",
+    "schoolType": "Primary School",
+    "electorate": "Goyder",
+    "decsRegion": "Palmerston & Rural",
+    "isGovernment": false,
+    "itSchoolCode": "litchsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Shepherdson College",
+    "schoolType": "School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "shephcec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Shepherdson Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "shephcec",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "St Andrew Lutheran School",
+    "schoolType": "Primary School",
+    "electorate": "Wanguri",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "standsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "St Francis Assisi School",
+    "schoolType": "Primary School",
+    "electorate": "Goyder",
+    "decsRegion": "Palmerston & Rural",
+    "isGovernment": false,
+    "itSchoolCode": "stfrasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "St Francis Xavier School",
+    "schoolType": "School",
+    "electorate": "Daly",
+    "decsRegion": "Palmerston & Rural",
+    "isGovernment": false,
+    "itSchoolCode": "stfrxsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "St Johns Catholic College",
+    "schoolType": "High School",
+    "electorate": "Fannie Bay",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "stjohhs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "St Joseph's Catholic College",
+    "schoolType": "School",
+    "electorate": "Katherine",
+    "decsRegion": "Katherine",
+    "isGovernment": false,
+    "itSchoolCode": "stjoshs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "St Joseph's Flexible Learning Centre",
+    "schoolType": "School",
+    "electorate": "Braitling",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "stjosephsflexiblelearningcentre",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "St Mary's Catholic School",
+    "schoolType": "Primary School",
+    "electorate": "Port Darwin",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "stmarsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "St Pauls Catholic School",
+    "schoolType": "Primary School",
+    "electorate": "Nightcliff",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "stpausch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "St Philip's College",
+    "schoolType": "High School",
+    "electorate": "Araluen",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "stphisch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Stirling School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "BArkly",
+    "isGovernment": true,
+    "itSchoolCode": "stirlsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Stuart Park Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Fong Lim",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "stuarsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Stuart Park Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Fong Lim",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "stuarsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Taminmin College",
+    "schoolType": "High School",
+    "electorate": "Goyder",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "taminhs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Tennant Creek High School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "tennahs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Tennant Creek Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "tennasch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Tennant Creek Primary School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Barkly",
+    "isGovernment": true,
+    "itSchoolCode": "tennasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "TESTGOVSCHOOL1",
+    "schoolType": "n/a",
+    "electorate": null,
+    "decsRegion": null,
+    "isGovernment": true,
+    "itSchoolCode": "TESTGOVSCH1",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "TESTGOVSCHOOL2",
+    "schoolType": "n/a",
+    "electorate": null,
+    "decsRegion": null,
+    "isGovernment": true,
+    "itSchoolCode": "TESTGOVSCH2",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Ti Tree School",
+    "schoolType": "Group School",
+    "electorate": "Barkly",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "titresch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Timber Creek School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "timbesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Tipperary Station School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Top end",
+    "isGovernment": true,
+    "itSchoolCode": "tippesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Titjikala School",
+    "schoolType": "Group School",
+    "electorate": "Namatjira",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "titjisch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Tivendale School",
+    "schoolType": "Special Purpose School",
+    "electorate": "Spillett",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "dondasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Tiwi College",
+    "schoolType": "School",
+    "electorate": "Arafura",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "tiwichs",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Top End School of Flexible Learning",
+    "schoolType": "School",
+    "electorate": "Karama",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "malrcsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Urapunga School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "urapusch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Wagaman Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Sanderson",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "wagamsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Wagaman Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Sanderson",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "wagamsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Wallace Rockhole School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "wallasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Walungurru School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "walunsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Wanguri Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Wanguri",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "wangusch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Wanguri Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Wanguri",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "wangusch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Warruwi School",
+    "schoolType": "School",
+    "electorate": "Arafura",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "warrusch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Watarrka School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "watarsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Watiyawanu School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "watiysch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Willowra School",
+    "schoolType": "School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "willosch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Woodroffe Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Blain",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "woodrsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Woodroffe Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Blain",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "woodrsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Woolaning School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "woolasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Woolianna School",
+    "schoolType": "Group School",
+    "electorate": "Daly",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "woolisch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Wugularr School",
+    "schoolType": "Group School",
+    "electorate": "Arnhem",
+    "decsRegion": "Big Rivers",
+    "isGovernment": true,
+    "itSchoolCode": "wugulsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Wulagi Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Sanderson",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "wulagsch",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Wulagi Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Sanderson",
+    "decsRegion": "Darwin",
+    "isGovernment": true,
+    "itSchoolCode": "wulagsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Wurankuwu Homeland Learning Centre",
+    "schoolType": "School",
+    "electorate": "Arafura",
+    "decsRegion": "n/a",
+    "isGovernment": false,
+    "itSchoolCode": "wuransch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Xavier CEC",
+    "schoolType": "School",
+    "electorate": "Arafura",
+    "decsRegion": "Darwin",
+    "isGovernment": false,
+    "itSchoolCode": "xaviesch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Yarralin School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Big rivers",
+    "isGovernment": true,
+    "itSchoolCode": "yarrasch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Yipirinya School",
+    "schoolType": "Primary School",
+    "electorate": "Braitling",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "yipirsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Yirara College",
+    "schoolType": "High School",
+    "electorate": "Araluen",
+    "decsRegion": "Alice Springs",
+    "isGovernment": false,
+    "itSchoolCode": "yirarsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Yirrkala Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "yirrkcec",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Yirrkala School",
+    "schoolType": "Group School",
+    "electorate": "Mulka",
+    "decsRegion": "East Arnhem",
+    "isGovernment": true,
+    "itSchoolCode": "yirrkcec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Yuendumu Pre School",
+    "schoolType": "Pre School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "yuendcec",
+    "isPreSchool": true
+  },
+  {
+    "schoolName": "Yuendumu School",
+    "schoolType": "School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "yuendcec",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Yulara School",
+    "schoolType": "Group School",
+    "electorate": "Gwoja",
+    "decsRegion": "Central",
+    "isGovernment": true,
+    "itSchoolCode": "yularsch",
+    "isPreSchool": false
+  },
+  {
+    "schoolName": "Zuccoli Primary School",
+    "schoolType": "Primary School",
+    "electorate": "Spillett",
+    "decsRegion": "Top End",
+    "isGovernment": true,
+    "itSchoolCode": "zuccosch",
+    "isPreSchool": false
+  },

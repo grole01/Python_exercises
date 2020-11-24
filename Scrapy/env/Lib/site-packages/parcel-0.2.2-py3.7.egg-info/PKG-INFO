@@ -1,0 +1,65 @@
+Metadata-Version: 1.1
+Name: parcel
+Version: 0.2.2
+Summary: Python Webapp Deployment Made Easier.
+Home-page: https://bitbucket.org/andrewmacgregor/parcel
+Author: Crispin Wellington
+Author-email: retrogradeorbit@gmail.com
+License: Copyright (c) 2012 Crispin Wellington.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Description: Parcel
+        ======
+        
+        Parcel: Pragmatic Python Webapp Deployment
+        ------------------------------------------
+        
+        Parcel is a suite of classes and helper functions designed to be used in 
+        conjunction with Fabric for building and deploying Python web
+        applications using native packages.
+        
+        Feature Support
+        ---------------
+        
+        Parcel is under heavy development and initially supports: 
+        
+        - Debian targets
+        - uWSGI deployment
+        
+        
+        Parcel is written and maintained by Crispin Wellington and Andrew Macgregor:
+        
+        Development Lead
+        ````````````````
+         - Crispin Wellington <retrogradeorbit@gmail.com>
+        
+        Core Developers
+        ```````````````
+         - Crispin Wellington <retrogradeorbit@gmail.com>
+         - Andrew Macgregor <amacgregor@gmail.com>
+        
+        For further information see the Parcel BitBucket project page:
+        https://bitbucket.org/andrewmacgregor/parcel
+        
+        For documentation see:
+        http://parcel.readthedocs.org/
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: ISC License (ISCL)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
