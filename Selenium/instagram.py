@@ -17,7 +17,7 @@ import shutil
 
 class App:
 
-    def __init__(self, username='adujmic1@gmail.com', password="Dujmic18092004", target_username="dataminer2060",
+    def __init__(self, username='xxxxxxxxxxx', password="xxxxxxxxxx", target_username="dataminer2060",
                  path=r"C:\Users\Korisnik\Desktop\Slike",options = Options()):#,#webdriwerwait=WebDriverWait()):
 
         self.username = username

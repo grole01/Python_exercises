@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1ef3839-2366-40d8-a420-9180a7573cdb" name="Default Changelist" comment="" />
+    <list default="true" id="79996a34-38f7-429c-86f3-49a9a937f750" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1kh2ekStGiSu1pHkS4IvnoY3Xt5" />
+  <component name="ProjectId" id="1kjE3XhmHKEjesZcWtEgPy6UR26" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,14 +16,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1ef3839-2366-40d8-a420-9180a7573cdb" name="Default Changelist" comment="" />
-      <created>1606138600605</created>
+      <changelist id="79996a34-38f7-429c-86f3-49a9a937f750" name="Default Changelist" comment="" />
+      <created>1606205402165</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606138600605</updated>
+      <updated>1606205402165</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1606207747341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606207747341" />
   </component>
 </project>
