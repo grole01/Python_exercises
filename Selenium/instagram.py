@@ -17,7 +17,7 @@ import shutil
 
 class App:
 
-    def __init__(self, username='xxxxxxxxxxx', password="xxxxxxxxxx", target_username="dataminer2060",
+    def __init__(self, username='adujmic1@gmail.com', password="Dujmic18092004", target_username="dataminer2060",
                  path=r"C:\Users\Korisnik\Desktop\Slike",options = Options()):#,#webdriwerwait=WebDriverWait()):
 
         self.username = username
@@ -51,8 +51,8 @@ class App:
 
 
 
-        sleep(6)
-        self.driver.quit()
+        sleep(2)
+        #self.driver.quit()
 
     def write_caption_to_exel_file(self,images,caption_path):
         print("writing to exel")
@@ -129,7 +129,8 @@ class App:
 
     def scroll_down(self):
         try:
-            nb_of_posts=self.driver.find_element_by_xpath('//*[@id="react-root"]/section/main/div/header/section/ul/li[1]/span/span')
+            nb_of_posts=self.driver.find_element_by_xpath('//*[class="g47SY lOXF2"]')
+            sleep(2)
             nb_of_posts=str(nb_of_posts.text).replace(",","")
             print(nb_of_posts)
     #
@@ -158,7 +159,7 @@ class App:
     def close_coocky(self):
         try:
             WebDriverWait(self.driver, 20).until(
-                EC.element_to_be_clickable((By.XPATH, '/html/body/div[2]/div/div/div/div[2]/button[1]'))).click()
+                EC.element_to_be_clickable((By.XPATH, '/html/body/div[4]/div/div/button[1]'))).click()
 
         except Exception:
             pass
@@ -169,9 +170,13 @@ class App:
             user_name_input = self.driver.find_element_by_xpath('//*[@id="loginForm"]/div/div[1]/div/label/input')
             try:
                 user_name_input.send_keys(self.username)
+                sleep(1)
                 password_input = self.driver.find_element_by_name('password')
-                password_input.send_keys(self.password)#
+                sleep(1)
+                password_input.send_keys(self.password)
+                sleep(1)
                 password_input.submit()
+                sleep(1)
             except Exception:
                 print("Some exception occurred weil try to find username or password field")
                 self.error = True
@@ -186,10 +191,12 @@ class App:
             search_bar=WebDriverWait(self.driver, 20).until(
                 EC.element_to_be_clickable((By.XPATH, '//*[@id="react-root"]/section/nav/div[2]/div/div/div[2]/input')))
             #search_bar=self.driver.find_element_by_xpath('//*[@id="react-root"]/section/nav/div[2]/div/div/div[2]/input').click()
-
+            sleep(1)
             search_bar.send_keys(self.target_username)
+            sleep(1)
             target_profile_url=(self.main_url+self.target_username+"/")
             self.driver.get(target_profile_url)
+            sleep(1)
         except Exception:
             print("Could not find search bar")
             self.error = True

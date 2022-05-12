@@ -12,3 +12,4 @@ quotes=soup.find_all("div",{"class":"quote"})
 for quote in quotes:
     print(quote.find("span",{"class":"text"}).text)
 
+kill_browser()
